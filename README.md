@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AbhinavP02
-- 👀 I’m interested in Web and app development 
-- 🌱 I’m currently learning javascirpt, python, c and java.
+- 👋 Hi, I’m Abhinav Prasad
+- 👀 I’m interested in Web Development using MERN and personal growth!
+- 🌱 I’m currently learning ExpressJS! 
 - 📫 How to reach me -- email - abhinavprasad0209@gmail.com
 
 <!---
